@@ -1,6 +1,6 @@
 # ☕ Java Learning Journey
 
-Welcome to my **Java Learning Journey** repository!!
+Welcome to my **Java Learning Journey** repository!
 
 This repository contains all the Java programs I write while learning Java. It includes fundamental concepts, practice questions, and mini programs created during my college coursework and self-learning.
 
